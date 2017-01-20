@@ -1,7 +1,7 @@
 # playingWithOFDM
 OFDM animation - MATLAB GUI
 
-+ Download the .m and .fig files in a directory.
++ Clone the repository (or Download the .m and .fig files in a directory)
 + Open playing_with_OFDM.m file in MATLAB Editor.
 + Run the file - "playing_with_OFDM.m"
 + In the GUI, the pushbuttons function as follows: 
