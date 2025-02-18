@@ -12,3 +12,6 @@ OFDM animation - MATLAB GUI
 + Observe the comment box for errors and warnings.
 
 + *Note*: 1. The error handling is done rigorously. Despite this, suppose the code crashes, close the GUI window, type "clear all" in the MATLAB command line and re-run the file "playing_with_OFDM" again.
+
+# A Snapshot of Graphical User Interface
+![](playingWithOFDMGUISnapshot.png)
